@@ -1,0 +1,15 @@
+{
+  "repository": "module-planned-liberu-platform-orchestration-081c1f70-flutter",
+  "capabilityKey": "planned:liberu:platform-orchestration",
+  "presentation": "mobile-flutter",
+  "package": "module_planned_liberu_platform_orchestration_081c1f70_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/liberu/nextjs/platform-orchestration.md",
+  "presentationPlan": "projects/liberu/flutter/platform-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "liberu"
+  ]
+}
